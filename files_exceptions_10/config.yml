@@ -1,0 +1,8 @@
+DEV:
+  url: "www.levelupfinancial-dev.com"
+  username: "user123"
+  password: "Qwerty123"
+QA:
+  url: "www.levelupfinancial-qa2.com"
+  username: "qauser123"
+  password: "OLKSJLK56464"
