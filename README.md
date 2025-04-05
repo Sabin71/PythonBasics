@@ -15,7 +15,7 @@ option1: Pycharm
 option2: terminal with git init command.
 Useful command on Git:
 Add files to git version control. This will start tracking changes in that file and possibly share with your team later on.
-You can do from PyCharm on Cimmit window
+You can do from PyCharm on Commit window
 with command line git add /folder/filename
 Commit after adding and complete your changes.
 Your can also create branches from master/main(default).
