@@ -7,3 +7,6 @@ apple
 banana
 pineapple
 oreo
+banana
+pineapple
+oreo
