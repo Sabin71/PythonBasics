@@ -172,4 +172,4 @@ idea/
 
 # PyPI configuration file
 .pypirc
-./passwords
+passwords
